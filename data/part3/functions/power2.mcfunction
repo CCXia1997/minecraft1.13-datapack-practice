@@ -1,0 +1,1 @@
+execute as @p at @s store result block ~ ~-1 ~ SuccessCount int 1 run scoreboard players get @p cp_power

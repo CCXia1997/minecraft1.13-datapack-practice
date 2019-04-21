@@ -1,0 +1,1 @@
+give @p potion{display:{Name:"[{\"score\":{\"name\":\"@p\",\"objective\":\"level\"}},{\"text\":\"初级\",\"color\":\"red\"},{\"text\":\"冲刺饮料\",\"color\":\"aqua\",\"italic\":false}]"},Potion:"minecraft:water",CustomPotionEffects:[{Id:1,Amplifier:3,Duration:1200}]} 1

@@ -1,0 +1,1 @@
+data get entity @e[type=creeper,limit=1] HurtTime

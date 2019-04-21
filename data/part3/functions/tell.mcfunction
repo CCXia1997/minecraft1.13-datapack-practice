@@ -1,0 +1,5 @@
+tellraw @p ["**********************"]
+tellraw @p ["名字：",{"selector":"@p"}]
+tellraw @p ["血量：",{"score":{"name":"@p","objective":"blood"}}]
+tellraw @p ["等级：",{"score":{"name":"@p","objective":"level"}}]
+tellraw @p ["**********************"]
